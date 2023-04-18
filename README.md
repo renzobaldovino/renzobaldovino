@@ -1,18 +1,16 @@
-<p align="center" style="font-size: 32px; font-weight: bold">Renzo Baldovino</p>
+# **Renzo Baldovino**
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=15&pause=1000&color=E8B867&center=true&vCenter=true&width=435&height=15&lines=Computer+Science+Student;Front-end+Developer;Creative+Web+Designer" alt="Typing SVG" /></a>
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=15&pause=1000&color=E8B867&vCenter=true&width=435&height=15&lines=Computer+Science+Student;Front-end+Developer;Creative+Web+Designer" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://www.facebook.com/renzo.baldovino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="25" height="25" /></a> &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/joseph-renzo-baldovino-6b9178267" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="25" height="25" /></a> &nbsp; &nbsp;
 <a href="https://www.github.com/renzobaldovino" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="25" height="25" /></a> &nbsp; &nbsp;
 </p>
 
 ---
-
-<br />
 
 ## **Skills**
 
@@ -37,16 +35,10 @@
 
 </p>
 
-<br />
 
 ---
 
-<br />
+## **Github Stats**
 
-<p align="center" style="font-size: 24px; font-weight: bold">
-Github Stats
-<br />
-<br />
 <a href="http://www.github.com/renzobaldovino"><img src="https://github-readme-stats.vercel.app/api?username=renzobaldovino&show_icons=true&hide=&count_private=true&title_color=E8B867&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="renzobaldovino's GitHub stats" /></a>
 <a href="https://github.com/renzobaldovino" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzobaldovino&langs_count=10&title_color=E8B867&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
