@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 2rem; font-weight: bold">Renzo Baldovino</p>
+<p align="center" style="font-size: 32px; font-weight: bold">Renzo Baldovino</p>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=15&pause=1000&color=E8B867&center=true&vCenter=true&width=435&height=15&lines=Computer+Science+Student;Front-end+Developer;Creative+Web+Designer" alt="Typing SVG" /></a>
@@ -43,7 +43,7 @@
 
 <br />
 
-<p align="center" style="font-size: 1.5rem; font-weight: bold">
+<p align="center" style="font-size: 24px; font-weight: bold">
 Github Stats
 <br />
 <br />
