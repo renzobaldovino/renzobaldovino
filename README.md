@@ -1,7 +1,7 @@
 # **Renzo Baldovino**
 
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=15&pause=1000&color=E8B867&vCenter=true&width=435&height=15&lines=Computer+Science+Student;Front-end+Developer;Creative+Web+Designer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=15&pause=1000&color=E8B867&vCenter=true&width=435&height=15&lines=BS+Computer+Science+Fresh+Graduate;Front-end+Developer;Creative+Web+Designer" alt="Typing SVG" /></a>
 </p>
 
 <p align="left">
